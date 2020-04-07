@@ -23,6 +23,18 @@
 <p>Coming to the main part,&nbsp;our major objective is to develop a self diagnnostic system for Covid-19 Virus.&nbsp;A self-diagnosis COVID-19 detection model to help you self diagnose your symptoms. This self-diagnosis is NOT a substitute for professional medical advice, diagnosis, or treatment. Always consult a medical professional for serious symptoms or emergencies.<br />If you believe you have been exposed to COVID-19 and develop symptoms like fever, cough and difficulty of breathing, call your doctor!</p>
 <p>Following are the list of features taken as input from the users on the basis of which a person is classified as Corona Detected or Undetected.</p>
 <p><img src="https://ibb.co/n1jHd7Dn" alt="" /><img src="https://i.pinimg.com/750x/25/5e/97/255e97d73f785ad4504f129171f6136e.jpg" alt="" width="749" height="447" /></p>
-<h2>Some Snaps of our&nbsp;Platform:</h2>
+<h2>Our&nbsp;Platform:</h2>
+<p><img src="https://i.pinimg.com/originals/30/88/34/308834c74678569c169c3cabafdbb455.png" alt="" width="1042" height="560" /></p>
 <p>&nbsp;</p>
-
+<h4>Requirements:</h4>
+<p>1. Sklearn ==&nbsp;0.21.1</p>
+<p>2. Django==2.0.8</p>
+<p>&nbsp;</p>
+<h4>How to Use?</h4>
+<p>1. Open the Django-API folder in terminal.</p>
+<p>2. Run python manage.py runserver</p>
+<p>&nbsp;</p>
+<h4>TODO:</h4>
+<p>1. Increase the number of dataset.</p>
+<p>2. Apply different machine learning models to perform better predictions.</p>
+<p>&nbsp;</p>
