@@ -28,7 +28,7 @@
 <p>&nbsp;</p>
 <h4>Requirements:</h4>
 <p>1. Sklearn ==&nbsp;0.21.1</p>
-<p>2. Django==2.0.8</p>
+<p>2. Django == 2.0.8</p>
 <p>&nbsp;</p>
 <h4>How to Use?</h4>
 <p>1. Open the Django-API folder in terminal.</p>
